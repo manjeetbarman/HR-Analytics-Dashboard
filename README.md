@@ -36,4 +36,6 @@ This project leverages the power of **Power BI** for interactive visualization a
 - Attrition reduction programs  
 - Recruitment effectiveness monitoring
 
+## 📷 Dashboard Preview
 
+https://github.com/manjeetbarman/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20HR_Analytics_Dashboard_Image.png
